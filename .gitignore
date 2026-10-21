@@ -1,2 +1,30 @@
-.ipynb_checkpoints/venv/
+
+# macOS files
+.DS_Store
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Large media and compressed files
+*.mp3
+*.mp4
+*.zip
+
+# Class dataset to keep locally
 DOB_Complaints_Received.csv
+

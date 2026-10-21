@@ -1,0 +1,121 @@
+Name;Base Languages;Morphology;Purpose;Year;Location;Author;Age;Speakers;Alphabet;Vowels;Consonants;Structure
+Solresol;//;ISOL;AUX;1827;France;musician;40;0;7;NaN;NaN;SVO
+Communicationssprache;romance, germanic;AGG, FLEX;AUX;1836;Germany;proprietario terriero;75;0;28;8;20;SVO
+Universalglot;romance, germanic;AGG;AUX;1868;France;linguist;55;0;27;7;20;SVO
+Volapük;romance, germanic;AGG, FLEX;AUX;1880;Germany;priest;49;25;27;8;19;SVO
+Esperanto;romance, germanic, slavic;AGG;AUX;1887;Poland;doctor;28;2000000;28;7;21;SVO
+Mundolinco;romance, germanic, slavic;AGG;AUX;1888;Netherlands;writer;19;0;20;5;15;SVO
+Bolak;romance, germanic;AGG;AUX;1899;France;merchant;40;0;19;5;14;SVO
+Idiom Neutral;romance, germanic;AGG;AUX;1902;Russian Federation;engineer;54;0;22;5;17;SVO
+Latino sine FLEXxione;romance;FLEX;AUX;1903;Italy;mathematician;45;0;29;7;22;SVO
+Ro;//;AGG;AUX;1906;United States;priest;53;0;26;5;21;SVO
+Ido;romance, germanic, slavic;AGG;AUX;1907;France;linguist;35;200;26;5;21;SVO
+Adjuvilo;romance, germanic, slavic;AGG;AUX;1910;France;linguist;26;0;26;5;21;SVO
+Timerio;//;FLEX;AUX;1921;Germany;architect;;0;10;NaN;NaN;SVO
+Interlingue;romance, slavic;ISOL;AUX;1922;Estonia;mathematician;55;30;26;6;20;SVO
+Novial;romance, germanic;ISOL;AUX;1928;Denmark;linguist;68;20;25;5;20;SVO
+Sona;asian, north african, arabic;ISOL;AUX;1935;United Kingdom;writer;52;0;24;6;18;SVO
+Esperanto II;romance, germanic, slavic;AGG;AUX;1937;Switzerland;mathematician;70;0;26;6;20;SVO
+Mondial;romance;AGG;AUX;1943;Sweden;principal;53;0;26;6;20;SVO
+Interglossa;romance;ISOL;AUX;1943;United Kingdom;biologist;48;0;26;6;20;SVO
+Interlingua;romance;FLEX;AUX;1951;United States;linguist;45;10000;26;6;20;SVO
+Intal;romance, germanic, slavic;AGG;AUX;1956;Germany;linguist;67;0;23;5;18;SVO
+Lingua sistemfrater;romance, asian;AGG;AUX;1957;Vietnam;translator;;0;18;5;13;SVO
+Neo;romance, germanic, slavic;FLEX;AUX;1961;Italy;diplomat;73;100;26;5;21;SVO
+Babm;//;ISOL;AUX;1962;Japan;philosopher;77;0;26;5;21;SVO
+Mirad;//;AGG;AUX;1966;France;writer;35;0;23;6;17;SVO
+Arcaicam Esperantom;romance, germanic, slavic;AGG;AUX;1969;Belgium;astrophysicist;44;0;29;6;23;SVO
+Eurolengo;romance;AGG;AUX;1972;United Kingdom;linguist;;0;26;5;21;SVO
+Glosa;romance;ISOL;AUX;1978;United Kingdom;biologist;64;0;25;5;20;SVO
+Kotava;//;AGG, POLY;AUX;1978;Canada;traveler;21;50;25;5;20;OSV
+Uropi;romance, slavic;AGG;AUX;1986;France;teacher;38;0;24;5;19;SVO
+Poliespo;romance, germanic, slavic;AGG;AUX;1990;United States;criminal;44;0;54;22;32;SVO
+Romániço;romance, germanic, slavic;AGG;AUX;1991;;student;;0;25;5;20;SVO
+Europanto;romance, germanic;ISOL;AUX;1996;Italy;journalist;37;0;26;5;21;SVO
+Unish;romance, germanic, slavic, asian, arabic;AGG;AUX;1996;South Korea;linguist;39;0;29;7;22;SVO
+Lingua Franca Nova;romance;ISOL;AUX;1998;United States;psychologist;46;600;22;5;17;SVO
+Sambahsa;romance, germanic, slavic, asian, arabic;FLEX;AUX;2007;France;linguist;;0;31;9;22;SVO
+Lingwa de planeta;romance, germanic, slavic, asian;AGG, FLEX;AUX;2010;Russian Federation;psychologist;42;25;25;5;20;SVO
+Ruski jezik;slavic;FLEX;ZON;1666;Croatia;priest;48;0;33;11;22;SVO
+Tutonish;germanic;AGG;ZON;1902;United States;journalist;56;0;26;5;21;SVO
+Romanid;romance;AGG;ZON;1956;Hungary;teacher;36;10;25;5;20;SVO
+Guosa;west african;AGG;ZON;1965;Nigeria;linguist;;3000000;24;7;17;SVO
+Afrihili;south african, east african;AGG;ZON;1970;Ghana;historian;;0;28;7;21;SVO
+Runjakitara;south african, east african;AGG;ZON;1990;Uganda;;;3000000;;;;
+Palawa kani;oceanic;AGG;ZON;1992;Australia;activist;37;400;26;3;23;SVO
+Slovio;slavic;FLEX;ZON;1999;Slovakia;linguist;;10;27;5;22;SVO
+Romance Neolatino;romance;FLEX;ZON;2006;United States;linguist;;0;26;5;21;SVO
+Slovianski;slavic;FLEX;ZON;2006;Netherlands;linguist;36;0;26;;;SVO
+Neoslavonic;slavic;FLEX;ZON;2009;Czech Republic;pedagogue;42;0;26;;;SVO
+Budinos;slavic;FLEX;ZON;2009;Russian Federation;poet;24;100;22;5;17;SVO
+Interslavic;romance, germanic, slavic;FLEX;ZON;2011;Czech Republic;pedagogue;44;20000;36;10;26;SVO
+Ortatürk;turkic;AGG;ZON;2008;;;;;;;;
+Basic English;germanic;FLEX;CON;1925;United Kingdom;linguist;36;0;26;5;21;SVO
+Special English;germanic;FLEX;CON;1959;United States;;;0;26;5;21;SVO
+Globish;germanic;FLEX;CON;2004;France;computer scientist;64;0;26;5;21;SVO
+E-Prime;germanic;FLEX;CON;1950;Poland;mathematician;70;0;26;5;21;SVO
+Simplified Technical English;germanic;FLEX;CON;1983;;;;0;26;5;21;SVO
+Parallel English;germanic;FLEX;CON;1998;India;engineer;66;0;25;5;20;SVO
+Blissymbols;//;ISOL;VIS;1949;Austria;chemist;52;10000;NaN;NaN;NaN;SVO
+International signs;//;ISOL;AUX;1973;;linguist;;;NaN;NaN;NaN;
+Isotype;//;ISOL;AUX;1925;Austria;mathematician;43;;NaN;NaN;NaN;
+Iyaric;germanic, west african;FLEX;RIT;1930;Jamaica;priest;;31000;26;5;21;SVO
+Eskayan;romance, germanic, asian;AGG, FLEX;RIT;1930;Philippines;soldier;;550;46;;;SVO
+Medefaidrin;germanic, west african;AGG;RIT;1936;Nigeria;priest;;4000;32;7;25;SVO
+Damin;oceanic;ISOL;RIT;1900;Australia;priest;;0;34;8;26;SVO
+Logopandecteision;romance, germanic;FLEX;ENG;1653;United Kingdom;writer;42;0;26;;;SVO
+Loglan;romance, germanic, asian;ISOL, AGG;ENG;1955;United States;sociologist;34;20;26;5;21;SVO
+aUI;//;ISOL;ENG;1952;Austria;philosopher;39;0;31;12;19;SVO
+Ithkuil;//;AGG, FLEX;ENG;1978;United States;linguist;19;0;40;9;31;VSO
+Láadan;//;AGG;ENG;1982;United States;linguist;46;0;15;5;10;VSO
+Lojban;romance, germanic;AGG;ENG;1987;United States;linguist;34;100;24;6;18;SVO
+Toki Pona;romance, germanic, slavic, asian;ISOL;ENG;2001;Canada;translator;23;5000;14;5;9;SVO
+K?len;//;FLEX;ART;1998;United States;artist;30;0;33;16;17;SVO
+Viossa;romance, germanic, slavic, asian, arabic, oceanic;ISOL;ENG;2014;;;;5000;NaN;NaN;NaN;SVO
+Lincos;//;ISOL;other;1960;Netherlands;mathematician;55;0;2;NaN;NaN;SVO
+Attempto Controlled English;germanic;FLEX;CON;1995;Switzerland;computer scientist;51;0;26;5;21;SVO
+Mänti;germanic;FLEX;ENG;2006;United Kingdom;writer;27;0;26;;;SVO
+Sindarin;//;FLEX;ART;1915;United Kingdom;writer;23;0;30;7;23;SVO
+Quenya;romance, germanic;FLEX;ART;1910;United Kingdom;writer;18;0;30;7;23;SVO
+Khuzdul;semitic;FLEX;ART;1935;United Kingdom;writer;43;0;33;12;21;SVO
+Klingon;//;AGG;ART;1985;United States;writer;37;20;31;5;26;OVS
+Atlantean;romance, germanic;FLEX;ART;1996;United States;writer;48;0;25;10;15;SOV
+Ku;south african, east african;AGG;ART;2005;Tanzania;linguist;;0;;;;SVO
+Na'vi;//;AGG;ART;2005;United States;teacher;65;0;27;7;20;SVO
+Barsoomian;//;ISOL;ART;2010;United States;teacher;68;0;25;10;15;VSO
+KiLiKi;//;FLEX;ART;2015;India;teacher;35;0;22;6;16;SVO
+Beama;;;ART;2016;Canada;linguist;;0;;;;
+Tsolyáni;asian, arabic;AGG;ART;1950;United States;linguist;21;0;20;6;14;SVO
+Gargish;germanic;ISOL;ART;1981;United Kingdom;linguist;;0;30;5;25;SVO
+D'ni;romance, germanic, slavic, semitic;FLEX;ART;1993;United States;videogame developer;;0;35;11;24;SVO
+Hymmnos;germanic, asian;AGG, FLEX;ART;1995;Japan;videogame developer;21;0;26;5;21;SVO
+Wenja;romance, germanic, asian;AGG, FLEX;ART;2016;United Kingdom;linguist;40;0;25;3;22;SOV
+Teonaht;romance, germanic;ISOL, AGG;ART;1962;United Kingdom;writer;9;0;35;8;27;OSV
+Verdurian;romance, germanic, slavic;FLEX;ART;1978;United States;linguist;18;0;29;8;21;SVO
+Dritok;//;ISOL;ART;2007;United States;librarian;;0;NaN;NaN;NaN;SVO
+Kobaïan;germanic, slavic;ISOL;ART;1969;France;musician;21;7;30;;;SVO
+Loxian;germanic;FLEX;ART;2005;Ireland;poet;55;2;25;5;20;SVO
+Moss;//;ISOL, AGG;ART;2009;United States;musician;33;0;7;NaN;NaN;SOV
+Vulcan;//;AGG, FLEX;ART;1966;United States;linguist;45;0;27;5;22;VOS
+Enchanta;romance, asian;FLEX;ART;2005;Philippines;director;37;0;26;5;21;SVO
+Valyrian;//;FLEX;ART;2012;United States;linguist;31;1000;33;12;21;SOV
+Dothraki;slavic, asian;FLEX;ART;2009;United States;linguist;28;0;27;23;4;SVO
+Trigedasleng;germanic;ISOL, FLEX;ART;2014;United States;linguist;33;0;23;5;18;SVO
+Belter Creole;romance, germanic, slavic, asian;ISOL;ART;2014;United States;linguist;25;0;24;5;19;SVO
+Romulan;//;POLY;ART;2019;United States;writer;48;10;34;6;28;SVO
+Utopian;romance, semitic;FLEX;ART;1516;United Kingdom;philosopher;38;0;22;5;17;SVO
+Zaum;slavic;;ART;1913;Russian Federation;poet;28;0;;;;
+Syldavian;germanic;FLEX;ART;1939;Belgium;cartoonist;32;0;37;11;26;SOV
+Newspeak;germanic;FLEX;ART;1949;United Kingdom;writer;46;0;26;5;21;SVO
+Borduria;germanic;AGG, FLEX;ART;1954;Belgium;cartoonist;47;0;27;6;21;SOV
+Spocanian;//;AGG;ART;1962;Netherlands;linguist;14;0;34;11;23;SOV
+Chakobsa;//;FLEX;ART;2021;United States;writer;40;0;31;8;23;VSO
+Lapine;romance, germanic;AGG, FLEX;ART;1972;United Kingdom;writer;52;0;24;6;18;SOV
+Baronh;asian;FLEX;ART;1996;Japan;writer;34;0;28;12;16;SOV
+Brithenig;romance, slavic;FLEX;ENG;1996;New Zealand;linguist;35;0;28;9;19;SVO
+Venedic;romance;AGG;ENG;2002;Netherlands;translator;32;0;32;8;24;SVO
+Lingua ignota;//;FLEX;RIT;1100;Germany;priest;50;0;23;5;18;SVO
+Balaibalan;//;AGG;RIT;1574;Türkiye;writer;46;0;29;6;23;SVO
+Enochian;romance, germanic, semitic;AGG, FLEX;RIT;1583;United Kingdom;mathematician;56;0;22;5;17;SVO
+Vendergood;romance, germanic;FLEX;ART;1905;United States;mathematician;7;0;;;;
+Talossan;romance;AGG, FLEX;ART;1980;United States;videogame developer;15;100;32;8;24;SVO
