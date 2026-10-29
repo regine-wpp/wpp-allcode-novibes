@@ -1,0 +1,61 @@
+plant_id,plant_name,region,water_need,light_need,temperature_c,soil_type,growth_days,rarity,glow_color,discovery_points
+MP001,Starfern,Red Dunes,38,27,1,Ice Gravel,4,Rare,Mint,110
+MP002,Echofern,Red Dunes,39,74,33,Crystal Soil,19,Common,Cyan,25
+MP003,Mistlily,Valles Marineris,45,10,5,Volcanic Ash,12,Common,Pink,25
+MP004,Crystalorchid,Polar Basin,23,21,19,Crystal Soil,13,Legendary,Amber,200
+MP005,Dunepetal,Crystal Caves,68,78,2,Volcanic Ash,4,Common,Mint,25
+MP006,Orbitreed,Polar Basin,83,34,-1,Crystal Soil,9,Uncommon,Amber,60
+MP007,Orbitbloom,Crystal Caves,58,45,24,Clay,7,Rare,Pink,110
+MP008,Duneorchid,Lava Fields,19,87,35,Red Sand,19,Uncommon,Violet,60
+MP009,Cometmoss,Polar Basin,81,38,15,Crystal Soil,9,Uncommon,Amber,60
+MP010,Moonsprout,Crystal Caves,37,82,15,Red Sand,17,Uncommon,Gold,60
+MP011,Lunarmoss,Red Dunes,81,78,11,Ice Gravel,15,Common,Mint,25
+MP012,Novasprout,Red Dunes,75,73,0,Crystal Soil,5,Common,Cyan,25
+MP013,Nebulareed,Crystal Caves,59,58,33,Volcanic Ash,18,Uncommon,Pink,60
+MP014,Mistfern,Crystal Caves,78,44,16,Crystal Soil,11,Uncommon,Gold,60
+MP015,Nebulacactus,Lava Fields,43,74,6,Ice Gravel,5,Common,Amber,25
+MP016,Twilightpetal,Polar Basin,30,79,28,Crystal Soil,12,Common,Gold,25
+MP017,Glowbloom,Polar Basin,40,17,10,Ice Gravel,4,Rare,Periwinkle,110
+MP018,Bloombloom,Valles Marineris,26,26,25,Ice Gravel,7,Legendary,Pink,200
+MP019,Echoorchid,Lava Fields,35,49,20,Clay,16,Rare,Mint,110
+MP020,Lunarbloom,Crystal Caves,53,12,32,Ice Gravel,9,Common,Mint,25
+MP021,Cometfern,Lava Fields,17,39,-1,Crystal Soil,12,Common,Periwinkle,25
+MP022,Twilightorchid,Ancient Crater,37,79,3,Ice Gravel,20,Common,Gold,25
+MP023,Cometcactus,Red Dunes,22,22,22,Clay,15,Rare,Gold,110
+MP024,Lunarthistle,Lava Fields,22,17,20,Clay,5,Common,Cyan,25
+MP025,Solarorchid,Red Dunes,64,33,12,Volcanic Ash,9,Uncommon,Amber,60
+MP026,Dustcactus,Valles Marineris,22,16,29,Crystal Soil,4,Rare,Amber,110
+MP027,Echocactus,Ancient Crater,17,31,19,Crystal Soil,14,Uncommon,Pink,60
+MP028,Lunarvine,Lava Fields,81,72,4,Red Sand,11,Uncommon,Cyan,60
+MP029,Moonpetal,Crystal Caves,50,17,-2,Ice Gravel,17,Rare,Mint,110
+MP030,Twilightmoss,Valles Marineris,20,33,-1,Ice Gravel,4,Common,Violet,25
+MP031,Cometlily,Valles Marineris,41,84,33,Crystal Soil,4,Common,Gold,25
+MP032,Aurorapetal,Polar Basin,36,50,10,Clay,14,Uncommon,Cyan,60
+MP033,Orbitcactus,Crystal Caves,11,68,34,Ice Gravel,5,Common,Periwinkle,25
+MP034,Mistorchid,Red Dunes,54,18,10,Clay,11,Uncommon,Cyan,60
+MP035,Lunarroot,Valles Marineris,77,11,30,Clay,5,Uncommon,Cyan,60
+MP036,Frostbloom,Lava Fields,80,29,12,Clay,8,Rare,Violet,110
+MP037,Pulseorchid,Polar Basin,74,72,11,Crystal Soil,4,Uncommon,Violet,60
+MP038,Echovine,Polar Basin,26,43,5,Volcanic Ash,19,Common,Violet,25
+MP039,Echoroot,Crystal Caves,29,79,-3,Clay,20,Common,Mint,25
+MP040,Crystallily,Polar Basin,56,15,17,Red Sand,9,Common,Violet,25
+MP041,Starsprout,Ancient Crater,89,29,10,Red Sand,7,Rare,Gold,110
+MP042,Glowmoss,Polar Basin,62,41,12,Red Sand,5,Rare,Gold,110
+MP043,Mooncactus,Ancient Crater,54,49,9,Red Sand,2,Common,Violet,25
+MP044,Solarlily,Crystal Caves,45,54,27,Volcanic Ash,19,Common,Pink,25
+MP045,Frostmoss,Polar Basin,14,23,33,Volcanic Ash,13,Uncommon,Violet,60
+MP046,Pulselily,Valles Marineris,24,59,31,Red Sand,10,Uncommon,Periwinkle,60
+MP047,Twilightroot,Lava Fields,35,56,22,Crystal Soil,12,Uncommon,Mint,60
+MP048,Pulsereed,Lava Fields,48,74,14,Volcanic Ash,12,Rare,Gold,110
+MP049,Orbitroot,Ancient Crater,58,32,34,Ice Gravel,11,Common,Gold,25
+MP050,Orbitvine,Valles Marineris,87,51,24,Volcanic Ash,16,Common,Violet,25
+MP051,Solarroot,Lava Fields,31,20,13,Ice Gravel,12,Uncommon,Periwinkle,60
+MP052,Cometreed,Red Dunes,28,13,-3,Red Sand,17,Common,Mint,25
+MP053,Echoreed,Lava Fields,59,73,20,Red Sand,6,Uncommon,Violet,60
+MP054,Nebulathistle,Crystal Caves,81,41,2,Volcanic Ash,6,Uncommon,Amber,60
+MP055,Lunarreed,Valles Marineris,86,50,23,Ice Gravel,18,Uncommon,Gold,60
+MP056,Mistcactus,Lava Fields,70,67,11,Red Sand,10,Rare,Amber,110
+MP057,Twilightcactus,Polar Basin,66,19,13,Red Sand,10,Uncommon,Pink,60
+MP058,Pulseroot,Red Dunes,39,59,4,Red Sand,4,Common,Gold,25
+MP059,Echosprout,Ancient Crater,17,36,21,Volcanic Ash,20,Uncommon,Violet,60
+MP060,Glowpetal,Crystal Caves,55,48,19,Volcanic Ash,19,Common,Violet,25
